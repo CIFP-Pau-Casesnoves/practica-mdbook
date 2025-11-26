@@ -1,0 +1,8 @@
+[book]
+title = "Guia per crear un mdBook"
+authors = ["Carles Canals"]
+language = "ca"
+src = "src"
+
+[build]
+build-dir = "book-html"

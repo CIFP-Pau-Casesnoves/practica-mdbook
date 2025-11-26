@@ -1,0 +1,27 @@
+# Ignora carpetes i arxius innecessaris
+
+# Sistema i temporals
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Configuració d'IDE
+.vscode/
+.idea/
+
+# Carpetes generades
+book/
+dist/
+out/
+node_modules/
+
+# Fitxers de configuració personal
+.env
+
+# Imatges temporals
+*.png
+*.jpg
+*.jpeg
