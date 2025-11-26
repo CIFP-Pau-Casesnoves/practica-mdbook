@@ -5,4 +5,4 @@ language = "ca"
 src = "src"
 
 [build]
-build-dir = "book-html"
+build-dir = "docs"
